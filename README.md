@@ -1,5 +1,5 @@
 # Reto3TopicosTelematica
-
+Carla Sofía Rendón Baliero
 ## Descripción Reto 3
 
 En este desafío se implementa una arquitectura que incluye dos sitios WordPress, un balanceador de carga, una base de datos y un servidor NFS. Se emplean dos instancias de WordPress para garantizar la disponibilidad del sitio web, además de asegurar una conexión segura mediante HTTPS con un dominio con certificado SSL.
@@ -118,6 +118,11 @@ nano wordpressbd.yml
 - Ejecución del docker-compose.
   
 ![imagen](https://github.com/csofia1408/Reto3TopicosTelematica/assets/72955238/1562d3e5-0f4f-48d9-a2f3-833e2949857a)
+
+## Instancias
+
+![imagen](https://github.com/csofia1408/Reto3TopicosTelematica/assets/72955238/d330dddb-a606-4a54-beb2-185858392efb)
+
 
 ## Referencias
 
