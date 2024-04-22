@@ -90,6 +90,10 @@ nano wordpressbd.yml
   
 - Reserva de nombre de dominio y asignación de IP elástica y Obtención del certificado SSL para el dominio.
 
+![imagen](https://github.com/csofia1408/Reto3TopicosTelematica/assets/72955238/a00fe01d-21c2-43c7-ab67-ebeb0ce9c866)
+
+![imagen](https://github.com/csofia1408/Reto3TopicosTelematica/assets/72955238/d5f31a3d-109e-495f-9545-9982dd933918)
+
 - Instalación de Docker.
   
 ![imagen](https://github.com/csofia1408/Reto3TopicosTelematica/assets/72955238/a635e932-df38-418e-a15f-f36374bdb490)
